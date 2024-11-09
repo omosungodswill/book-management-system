@@ -1,0 +1,17 @@
+{
+  "name": "bookman_pg",
+  "version": "1.0.0",
+  "description": "npm install express, bcrypt, ejs, nodemailer, mongoose, dotenv",
+  "main": "app.js",
+  "scripts": {
+    "app": "nodemon bookman_pg/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "nodemailer": "^6.9.15",
+    "nodemon": "^3.1.7"
+  }
+}
